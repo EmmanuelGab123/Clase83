@@ -1,0 +1,36 @@
+
+h1
+{
+	color: red;
+	font-size: 40px;
+}
+.body_background {
+	background-image:url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: lightblue;
+	border-style: ridge;
+}
+#rojofuerte{
+	background-color: darkred;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+}
+#rojo{
+	background-color: red;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+}
+#rojonaranja{
+	background-color:orangered;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+}
+
